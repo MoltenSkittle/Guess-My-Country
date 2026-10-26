@@ -1,0 +1,1178 @@
+{
+   "AFGHANISTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "ALBANIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ALGERIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ANDORRA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "ANGOLA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ANTIGUA AND BARBUDA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "ARGENTINA": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ARMENIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "AUSTRALIA": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "AUSTRIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "AZERBAIJAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "BAHAMAS": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "BAHRAIN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "BANGLADESH": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BARBADOS": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "BELARUS": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "BELGIUM": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BELIZE": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BENIN": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BHUTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "BOLIVIA": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "BOSNIA AND HERZEGOVINA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BOTSWANA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "BRAZIL": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BRUNEI": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BULGARIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "BURKINA FASO": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "BURUNDI": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "CABO VERDE": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "CAMBODIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "CAMEROON": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "CANADA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "CENTRAL AFRICAN REPUBLIC": {
+    "CONTINENT": "AFRICA",
+    "LANDLOCKED": true,
+    "ISLAND": false,
+    "HAS A COASTLINE": false
+   },
+   "CHAD": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "CHILE": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "CHINA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "COLOMBIA": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "COMOROS": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "COSTA RICA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "IVORY COAST": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "CROATIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "CUBA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "CYPRUS": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "CZECHIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "DEMOCRATIC REPUBLIC OF THE CONGO": {
+    "CONTINENT": "AFRICA",
+    "LANDLOCKED": false,
+    "ISLAND": false,
+    "HAS A COASTLINE": true
+   },
+   "DENMARK": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "DJIBOUTI": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "DOMINICA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "DOMINICAN REPUBLIC": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "ECUADOR": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "EGYPT": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "EL SALVADOR": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "EQUATORIAL GUINEA": {
+    "CONTINENT": "AFRICA",
+    "LANDLOCKED": false,
+    "ISLAND": false,
+    "HAS A COASTLINE": true
+   },
+   "ERITREA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ESTONIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ESWATINI": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "ETHIOPIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "FIJI": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "FINLAND": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "FRANCE": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GABON": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GAMBIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GEORGIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GERMANY": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GHANA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GREECE": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GRENADA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "GUATEMALA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GUINEA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "GUINEA BISSAU": {
+    "CONTINENT": "AFRICA",
+    "LANDLOCKED": false,
+    "ISLAND": false,
+    "HAS A COASTLINE": true
+   },
+   "GUYANA": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "HAITI": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "HONDURAS": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "HUNGARY": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "ICELAND": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "INDIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "INDONESIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "IRAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "IRAQ": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "IRELAND": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "ISRAEL": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ITALY": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "JAMAICA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "JAPAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "JORDAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "KAZAKHSTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "KENYA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "KIRIBATI": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "KUWAIT": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "KYRGYZSTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "LAOS": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "LATVIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "LEBANON": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "LESOTHO": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "LIBERIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "LIBYA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "LIECHTENSTEIN": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "LITHUANIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "LUXEMBOURG": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "MADAGASCAR": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "MALAWI": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "MALAYSIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "MALDIVES": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "MALI": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "MALTA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "MARSHALL ISLANDS": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "MAURITANIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "MAURITIUS": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "MEXICO": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "MICRONESIA": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "MOLDOVA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "MONACO": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "MONGOLIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "MONTENEGRO": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "MOROCCO": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "MOZAMBIQUE": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "MYANMAR": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "NAMIBIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "NAURU": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "NEPAL": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "NETHERLANDS": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "NEW ZEALAND": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "NICARAGUA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "NIGER": {
+    "CONTINENT": "AFRICA",
+    "LANDLOCKED": true,
+    "ISLAND": false,
+    "HAS A COASTLINE": false
+   },
+   "NIGERIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "NORTH KOREA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "NORTH MACEDONIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "NORWAY": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "OMAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "PAKISTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "PALAU": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "PALESTINE": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "PANAMA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "PAPUA NEW GUINEA": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "PARAGUAY": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "PERU": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "PHILIPPINES": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "POLAND": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "PORTUGAL": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "QATAR": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "REPUBLIC OF THE CONGO": {
+    "CONTINENT": "AFRICA",
+    "LANDLOCKED": false,
+    "ISLAND": false,
+    "HAS A COASTLINE": true
+   },
+   "ROMANIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "RUSSIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "RWANDA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "SAINT KITTS AND NEVIS": {
+    "CONTINENT": "NORTH AMERICA",
+    "LANDLOCKED": false,
+    "ISLAND": true,
+    "HAS A COASTLINE": true
+   },
+   "SAINT LUCIA": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "SAINT VINCENT AND THE GRENADINES": {
+    "CONTINENT": "NORTH AMERICA",
+    "LANDLOCKED": false,
+    "ISLAND": true,
+    "HAS A COASTLINE": true
+    },
+   "SAMOA": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "SAN MARINO": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "SAO TOME AND PRINCIPE": {
+    "CONTINENT": "AFRICA",
+    "LANDLOCKED": false,
+    "ISLAND": true,
+    "HAS A COASTLINE": true
+   },
+   "SAUDI ARABIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SENEGAL": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SERBIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "SEYCHELLES": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "SIERRA LEONE": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SINGAPORE": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "SLOVAKIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "SLOVENIA": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SOLOMON ISLANDS": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "SOMALIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SOUTH AFRICA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SOUTH KOREA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SOUTH SUDAN": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "SPAIN": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SRI LANKA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "SUDAN": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SURINAME": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SWEDEN": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "SWITZERLAND": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "SYRIA": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "TAIWAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "TAJIKISTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "TANZANIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "THAILAND": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "TIMOR LESTE": {
+    "CONTINENT": "ASIA",
+    "LANDLOCKED": false,
+    "ISLAND": true,
+    "HAS A COASTLINE": true
+   },
+   "TOGO": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "TONGA": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "TRINIDAD AND TOBAGO": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "TUNISIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "TURKIYE": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "TURKMENISTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "TUVALU": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "UGANDA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "UKRAINE": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "UNITED ARAB EMIRATES": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "UNITED KINGDOM": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "UNITED STATES": {
+      "CONTINENT": "NORTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "URUGUAY": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "UZBEKISTAN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "VANUATU": {
+      "CONTINENT": "OCEANIA",
+      "LANDLOCKED": false,
+      "ISLAND": true,
+      "HAS A COASTLINE": true
+   },
+   "VATICAN CITY": {
+      "CONTINENT": "EUROPE",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "VENEZUELA": {
+      "CONTINENT": "SOUTH AMERICA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "VIETNAM": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "YEMEN": {
+      "CONTINENT": "ASIA",
+      "LANDLOCKED": false,
+      "ISLAND": false,
+      "HAS A COASTLINE": true
+   },
+   "ZAMBIA": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   },
+   "ZIMBABWE": {
+      "CONTINENT": "AFRICA",
+      "LANDLOCKED": true,
+      "ISLAND": false,
+      "HAS A COASTLINE": false
+   }
+}
