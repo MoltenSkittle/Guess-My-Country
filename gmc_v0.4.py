@@ -186,9 +186,6 @@ def bot_engine_B(skeleton, list_of_letters, country_dict, filter_info, deviator_
             "ISLAND": island
             }
 
-
-
-
     if len(filter_info) >= 1:
         if len(skeleton) == 0:
             possible_countries = country_dict.copy()
@@ -215,7 +212,7 @@ def bot_engine_B(skeleton, list_of_letters, country_dict, filter_info, deviator_
                         if letter in filter_info:
                             del guessing_letters[letter]
                     guess = random.choice(guessing_letters)
-            if deviator_ceiling == 70:
+            elif deviator_ceiling == 70:
                 guess_correctly = random.randint(1, 3)
                 if guess_correctly == 1:
                     guess = next(iter(possible_countries))
@@ -225,6 +222,8 @@ def bot_engine_B(skeleton, list_of_letters, country_dict, filter_info, deviator_
                         if letter in filter_info:
                             del guessing_letters[letter]
                     guess = random.choice(guessing_letters)
+            else:
+                guess = next(iter(possible_countries))
         else:
             letters = list_of_letters.copy()
             for letter in list(letters):
@@ -274,7 +273,7 @@ def bot_engine_B(skeleton, list_of_letters, country_dict, filter_info, deviator_
                         guessing_letters = list(list_of_letters.copy())
                         for letter in list(guessing_letters):
                             if letter in filter_info:
-                                del letters[letter]
+                               guessing_letters.remove(letter)
                         guess = random.choice(guessing_letters)
 
                 elif deviator_ceiling == 70:
@@ -285,7 +284,7 @@ def bot_engine_B(skeleton, list_of_letters, country_dict, filter_info, deviator_
                         guessing_letters = list(list_of_letters.copy())
                         for letter in list(guessing_letters):
                             if letter in filter_info:
-                                del letters[letter]
+                                del guessing_letters[letter]
                         guess = random.choice(guessing_letters)
                 else:
                     guess = random.choice(best_letter)
